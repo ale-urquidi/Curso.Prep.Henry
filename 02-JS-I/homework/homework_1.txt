@@ -1,0 +1,14 @@
+Variables
+Son parámetros que reciben un valor, según el tipo definido, que puede variar a lo largo del programa o en el momento de la ejecución.
+
+Strings
+Son "cadenas de caracteres", definidos entre comillas.
+
+Funciones (argumentos, return)
+Son pequeños bloques de código que pueden recibir uno o más argumentos, con los cuales realizan un proceso y devuelven un resultado.
+
+Declaraciones if
+Es una forma de controlar el flujo del programa, mediante condiciones que al cumplirse bien pueden devolver valores booleanos (verdadero, falso) o ejecutar una o más instrucciones.
+
+Valores booleanos (true, false)
+Son un tipo de dato que solo permite dos valores: verdadero (true) y falso (false).
